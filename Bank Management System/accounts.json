@@ -1,0 +1,17 @@
+{
+    "10000": {
+        "name": "Harini",
+        "type": "Savings",
+        "balance": 10000.0
+    },
+    "1208": {
+        "name": "Uma",
+        "type": "Savings",
+        "balance": 20000.0
+    },
+    "2167": {
+        "name": "sahithi",
+        "type": "Current",
+        "balance": 25000.0
+    }
+}
