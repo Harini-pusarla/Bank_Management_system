@@ -1,6 +1,6 @@
 # Bank_Management_system
 
-The Banking Management System is a console-based application developed in Python using Object-Oriented Programming (OOP) principles. It simulates basic banking operations and is designed to help users manage bank accounts securely and efficiently through a command-line interface.
+The Bank Management System is a console-based application developed in Python using Object-Oriented Programming (OOP) principles. It simulates basic banking operations and is designed to help users manage bank accounts securely and efficiently through a command-line interface.
 
 ## Objective
 The project aims to demonstrate the application of core OOP concepts such as encapsulation, inheritance, abstraction, and polymorphism by modeling real-world banking entities and operations in a modular and scalable manner.
