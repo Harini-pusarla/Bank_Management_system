@@ -2,10 +2,10 @@
 
 The Banking Management System is a console-based application developed in Python using Object-Oriented Programming (OOP) principles. It simulates basic banking operations and is designed to help users manage bank accounts securely and efficiently through a command-line interface.
 
-## 🎯 Objective
+## Objective
 The project aims to demonstrate the application of core OOP concepts such as encapsulation, inheritance, abstraction, and polymorphism by modeling real-world banking entities and operations in a modular and scalable manner.
 
-## 🔧 Core Functionalities
+## Core Functionalities
 Account Creation: Users can create either a Savings or Current account with a unique account number.
 
 Deposit & Withdrawal: Handles deposits and withdrawals while validating balances and input amounts.
@@ -16,7 +16,7 @@ Data Persistence: Uses JSON file storage (accounts.json) to save account data fo
 
 Menu-Driven UI: Interactive terminal interface for easy navigation and use.
 
-## 🧠 OOP Concepts Applied
+## OOP Concepts Applied
 Class & Object: Account, SavingsAccount, and CurrentAccount modeled as classes
 
 Inheritance: Specialized account types extend the base Account class
